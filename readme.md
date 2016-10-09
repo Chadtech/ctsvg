@@ -1,0 +1,1 @@
+I made this over a year ago, to play around with the idea of making an in-browser svg editor. I only spent half a day on it, but the results were promising
